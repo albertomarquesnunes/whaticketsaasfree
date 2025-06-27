@@ -1,8 +1,5 @@
 🚨 Atenção:
 
-Para adquirir suporte a versão mais atualizada 6.0.0 entre em contato:</br>
-
-CONTATO/WHATSAPP (73) 9 9148-7222</br>
 
 # WhaTicket Versão Saas com Módulo Kanban, Modo Noturno e as seguintes integrações:</br>
 
@@ -30,14 +27,7 @@ CONTATO/WHATSAPP (73) 9 9148-7222</br>
 
 ---
 
-Sugestão de VPS:
 
-https://hostinger.com.br?REFERRALCODE=6CTNATANAEVZ
-
----
-
-🚨 Atenção:</br> 
-⚠️ Este diretório é uma cortesia de reidocodigo.shop. se você pagou por este acesso, foi enganado, recomendamos solicitar o estorno no seu cartão de crédito ou no seu banco.
 
 📅 13/12/2024 – Versão 5.5.0 = Gratís
 
@@ -90,12 +80,7 @@ https://hostinger.com.br?REFERRALCODE=6CTNATANAEVZ
 🆕 Adicionado nova ABA Cadastrar Empresa</br>
 📋 Add Opção Plano Interno</br>
 
-Caso queira fazer uma contribuição, serei muito grato.</br>
-Chave Pix, aleatória:
 
-```
-70aaf62c-5160-4e50-8e3a-642e0bb1546b
-```
 </br>
 
 Biblioteca Baileys Atualizada:</br>
